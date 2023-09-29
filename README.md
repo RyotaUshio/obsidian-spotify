@@ -10,7 +10,7 @@ This is an [Obsidian.md](https://obsidian.md) plugin for Spotify integration.
 - Sync your Obsidain vault and Spotify library
 - Embed Spotify player in your notes
 
-### For musicians
+### For music addicts
 
 - Advanced playback features
   - AB loop
