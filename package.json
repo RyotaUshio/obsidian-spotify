@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-spotify",
+	"version": "0.1.0",
+	"description": "Import music from your Spotify library. Play & practive your favorite songs using advanced player features.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
